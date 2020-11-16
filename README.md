@@ -1,10 +1,12 @@
 ### Hi there, I'm Govind 👋
 
+<a href="https://www.linkedin.com/in/govind-bagla-75ab32b3/">
+  <img align="left" alt="Govind Maheshwari | Linkedin" width="21px" src="https://www.flaticon.com/free-icon/linkedin_1409945" />
+</a>
+
+
 <!--
 **govind1530/govind1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
