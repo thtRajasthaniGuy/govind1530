@@ -1,7 +1,7 @@
 ### Hi there, I'm Govind 👋
 
 <a href="https://www.linkedin.com/in/govind-bagla-75ab32b3/">
-  <img align="left" alt="Govind Maheshwari | Linkedin" width="21px" src="https://www.flaticon.com/free-icon/linkedin_1409945" />
+  <img align="left" alt="Govind Maheshwari | Linkedin" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
