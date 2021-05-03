@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <br />
 
 - 🌱 I’m currently learning JavaScript , React Native
+-  🤔 I’m looking for help with Math, React Native Animation
 
 **Languages and Tools:**  
 
