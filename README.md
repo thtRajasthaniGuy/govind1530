@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🌱 Learning & working on JavaScript , React Native , TypeScript
+- 🌱 Learning & working on JavaScript , React Native 
 
 Future Plans:
-- Learn Electronjs , GraphQL
+- Learn Electronjs , GraphQL, TypeScript
 
 **Languages and Tools:**  
 
