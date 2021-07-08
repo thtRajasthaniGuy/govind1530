@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🌱 I’m currently learning JavaScript , React Native
+- 🌱 Learning & working on JavaScript , React Native , TypeScript
+
+Future Plans:
+- Learn Electronjs
 
 **Languages and Tools:**  
 
