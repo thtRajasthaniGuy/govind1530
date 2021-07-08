@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Learning & working on JavaScript , React Native , TypeScript
 
 Future Plans:
-- Learn Electronjs
+- Learn Electronjs , GraphQL
 
 **Languages and Tools:**  
 
