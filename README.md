@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Learning & working on JavaScript , React Native 
 
 Future Plans:
-- Learn Electronjs , GraphQL, TypeScript, Nodejs
+- Learn GraphQL, TypeScript, Nodejs
 
 **Languages and Tools:**  
 
